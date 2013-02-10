@@ -1,0 +1,1281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"email",
+				"email"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"ema",
+				"Email"
+			],
+			[
+				"resu",
+				"resume"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"en",
+				"ensure_length_of"
+			],
+			[
+				"ma",
+				"maximum"
+			],
+			[
+				"res",
+				"resume_form"
+			],
+			[
+				"resume",
+				"resume"
+			],
+			[
+				"att",
+				"attachment"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"sub",
+				"submitted"
+			],
+			[
+				"Su",
+				"successfully"
+			],
+			[
+				"su",
+				"submitted"
+			],
+			[
+				"candi",
+				"candidate"
+			],
+			[
+				"cani",
+				"candidate"
+			],
+			[
+				"candidates",
+				"candidates_url"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"cand",
+				"candidates"
+			],
+			[
+				"br",
+				"br	Tag"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"hu",
+				"human_attribute_name"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"no",
+				"notice"
+			],
+			[
+				"can",
+				"candidate"
+			],
+			[
+				"con",
+				"controls"
+			],
+			[
+				"contro",
+				"control-group"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"border-bot",
+				"border-bottom-width"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"trip",
+				"trip_destination_path"
+			],
+			[
+				"tr",
+				"trip"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"m",
+				"min-height"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pw",
+				"pwToFind"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"person",
+				"person_id"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"line",
+				"lineOfText"
+			],
+			[
+				"str",
+				"stringIsFound"
+			],
+			[
+				"s",
+				"stringIsFound"
+			],
+			[
+				"lin",
+				"lineOfText"
+			],
+			[
+				"file",
+				"fileToWrite"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"th",
+				"thin"
+			],
+			[
+				"de",
+				"decreasing"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"numb",
+				"numb"
+			],
+			[
+				"I",
+				"i"
+			],
+			[
+				"my",
+				"myTextField"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"is",
+				"isSelected2"
+			],
+			[
+				"rad",
+				"radioBtn"
+			],
+			[
+				"ch",
+				"checkForLetter"
+			],
+			[
+				"val",
+				"validateHyphens"
+			],
+			[
+				"rand",
+				"randomNum"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"random",
+				"randomSpeed"
+			],
+			[
+				"colo",
+				"color2"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"inpu",
+				"input	Tag"
+			],
+			[
+				"ge",
+				"generateCols"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"num",
+				"num"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ace/Dropbox/Javascript/soundcloud.html",
+		"/home/ace/Dropbox/Javascript/soundclound_api_call.js",
+		"/home/ace/Dropbox/Ruby on Rails/blocs_and_procs.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/routes.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/resumes/new.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/resumes/edit.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/resumes/_form.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/_form.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/models/resume.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/resumes_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/application_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/factories.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/features/user_pages_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/spec_helper.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/candidate_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/candidates_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/users_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/sessions_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/users/new.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/new.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/Gemfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/user_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/helpers/users_helper.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/log/test.log",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/sessions/new.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/environments/test.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/models/user.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/database.yml",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/.gitignore",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/job_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/models/job.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/models/candidate.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/_nav.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/index.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/edit.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/show.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/javascripts/nested_form.js",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/schema.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/resumes_controller.rb.bak",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/custom.css.scss",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/resumes/index.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/resumes/show.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130131002357_add_cover_letter_to_candidate.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/application.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/_form.html.erb.bak",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/_form.html.erb.bak2",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/javascripts/limit_nested_fields.js",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/public/javascripts/nested_form.js",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/uploaders/file_uploader.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/resume_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130127163823_add_candidate_id_to_resume.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130127165752_remove_resume_from_candidates.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130127163059_add_id_to_candidate.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130127154542_create_resumes.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/README.md",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/app/models/candidate.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/locales/en.yml",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/lib/file_size_validator.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/tmp/pids/server.pid",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/static_pages/about.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/uploaders/resume_uploader.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/features/candidate_page_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/initializers/simple_form_bootstrap.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/config/boot.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/scaffolds.css.scss",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/_header.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/application.css",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/application.css.scss",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/users.css.scss",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/assets/stylesheets/static_pages.css.scss",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/_flash.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/_flash_notices.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/dashboard.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/users/dashboard.html.erb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/config/routes.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/app/views/candidates/new.html.erb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/candidates_controller.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/blog/octopress/source/_posts/2012-12-10-deploying-octopress-post-to-github-pages.markdown",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/user_spec.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/spec/requests/user_pages_spec.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/spec/models/candidate_spec.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/spec/requests/candidate_page_spec.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/spec/spec_helper.rb",
+		"/C/Users/aatienza/Dropbox/Ruby on Rails/rails_projects/ats/Guardfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/Guardfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/Gemfile.lock",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/static_pages/dashboard.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/_shim.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/migrate/20130106183141_create_users.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/requests/user_pages_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/spec/requests/static_pages_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/static_pages/home.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/helpers/application_helper.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/views/layouts/application.html.erb.bak",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/db/development.sqlite3",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/app/controllers/static_pages_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/README.rdoc",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/ats/doc/README_FOR_APP",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/blog/octopress/Gemfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/blog/octopress/source/_posts/2012-12-29-install-and-work-with-postgresql-in-rails.markdown",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/layouts/application.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/destinations/index.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/models/trip.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/destinations/_form.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/trips/show.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/destinations/show.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/controllers/destinations_controller.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/config/routes.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/models/destination.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/app/views/trips/index.html.erb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/Gemfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/config/database.yml",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/Rakefile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/Gemfile.lock",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/wandrr/config/database.yml",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/wandrr/Gemfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/models/wolf_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/app/mailers/zombie_mailer.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/app/models/wolf.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/Gemfile",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/spec_helper.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/README.md",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/lib/zombie_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/db/migrate/20121226042110_create_wolves.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/spec/lib/person_spec.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/app/models/person.rb",
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/app/controllers/people_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"example.com",
+			"company",
+			"examp",
+			"h3",
+			"<h3>",
+			"nav",
+			"fieldc",
+			"field",
+			"candidate",
+			"horizo",
+			"candidates_ur",
+			"candidates_",
+			"edit",
+			"show",
+			"file",
+			"max",
+			"fieldscount",
+			"file",
+			"name",
+			"r",
+			"resume",
+			"Resume",
+			"ResumeUploader",
+			"resume",
+			"ResumeUploader",
+			"resume",
+			"remove_file",
+			"resume",
+			"show",
+			"file",
+			"end",
+			"avatar",
+			"user",
+			"notice",
+			"error",
+			"text",
+			"errors",
+			"candidate",
+			"cucumb",
+			"email",
+			"username",
+			"wandr",
+			"initi",
+			"email",
+			"420",
+			"400",
+			"380",
+			"360",
+			"340",
+			"320",
+			"300",
+			"280",
+			"260",
+			"240",
+			"photo",
+			"post",
+			"secret",
+			"side",
+			"use",
+			"used",
+			"n",
+			"decreasing",
+			"increasing",
+			"d",
+			"var",
+			"d",
+			"numb",
+			"user",
+			"file",
+			"infile",
+			"load",
+			"();\n",
+			"Basketball",
+			"basketball",
+			"Basketball",
+			"basketball",
+			"Basketball",
+			"basketball",
+			"Basketball",
+			"basketball",
+			"email",
+			"br",
+			"millenium",
+			"decade"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"form",
+				"app/views/candidates/_form.html.erb"
+			],
+			[
+				"resume",
+				"app/models/resume.rb"
+			],
+			[
+				"new",
+				"app/views/resumes/new.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"fa",
+				"spec/factories.rb"
+			],
+			[
+				"user",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"fac",
+				"spec/factories.rb"
+			],
+			[
+				"candid",
+				"spec/features/candidate_page_spec.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"cand",
+				"app/controllers/candidates_controller.rb"
+			],
+			[
+				"appli",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"test",
+				"log/test.log"
+			],
+			[
+				"controller",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"contro",
+				"app/controllers/resumes_controller.rb"
+			],
+			[
+				"candi",
+				"app/controllers/candidates_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"y",
+				"config/database.yml"
+			],
+			[
+				"igno",
+				".gitignore"
+			],
+			[
+				"job",
+				"app/models/job.rb"
+			],
+			[
+				"nav",
+				"app/views/layouts/_nav.html.erb"
+			],
+			[
+				"over",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"show",
+				"app/views/candidates/show.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"edit",
+				"app/views/candidates/edit.html.erb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"resu",
+				"app/models/resume.rb"
+			],
+			[
+				"boot",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"candd",
+				"app/controllers/candidates_controller.rb"
+			],
+			[
+				"inde",
+				"app/views/candidates/index.html.erb"
+			],
+			[
+				"in",
+				"app/views/resumes/index.html.erb"
+			],
+			[
+				"sho",
+				"app/views/resumes/show.html.erb"
+			],
+			[
+				"nester",
+				"app/assets/javascripts/nested_form.js"
+			],
+			[
+				"resum",
+				"app/models/resume.rb"
+			],
+			[
+				"con",
+				"app/controllers/candidates_controller.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"cover",
+				"db/migrate/20130131002357_add_cover_letter_to_candidate.rb"
+			],
+			[
+				"res",
+				"spec/models/resume_spec.rb"
+			],
+			[
+				"controll",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ind",
+				"app/views/candidates/index.html.erb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"nest",
+				"public/javascripts/nested_form.js"
+			],
+			[
+				"file",
+				"app/uploaders/file_uploader.rb"
+			],
+			[
+				"index",
+				"app/views/candidates/index.html.erb"
+			],
+			[
+				"can",
+				"app/models/candidate.rb"
+			],
+			[
+				"candida",
+				"spec/models/candidate_spec.rb"
+			],
+			[
+				"remove",
+				"db/migrate/20130127165752_remove_resume_from_candidates.rb"
+			],
+			[
+				"postion",
+				"app/controllers/positions_controller.rb"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			],
+			[
+				"server",
+				"tmp/pids/server.pid"
+			],
+			[
+				"uplo",
+				"app/uploaders/resume_uploader.rb"
+			],
+			[
+				"se",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"featre",
+				"spec/features/candidate_page_spec.rb"
+			],
+			[
+				"na",
+				"app/views/layouts/_nav.html.erb"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"upload",
+				"app/uploaders/resume_uploader.rb"
+			],
+			[
+				"forms",
+				"config/initializers/simple_form_bootstrap.rb"
+			],
+			[
+				".scss",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"stati",
+				"app/assets/stylesheets/static_pages.css.scss"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"guard",
+				"Guardfile"
+			],
+			[
+				"gme",
+				"Gemfile"
+			],
+			[
+				"sessions",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"head",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicat",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"application",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"creat",
+				"db/migrate/20130106183141_create_users.rb"
+			],
+			[
+				"userp",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/static_pages.css.scss"
+			],
+			[
+				"sql",
+				"db/development.sqlite3"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"aout",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"s",
+				"spec/spec_helper.rb"
+			],
+			[
+				"sta",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"rea",
+				"README.rdoc"
+			],
+			[
+				"read",
+				"doc/README_FOR_APP"
+			],
+			[
+				"desti",
+				"app/controllers/destinations_controller.rb"
+			],
+			[
+				"trip",
+				"app/models/trip.rb"
+			],
+			[
+				"application.htm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"des",
+				"app/controllers/destinations_controller.rb"
+			],
+			[
+				"destinat",
+				"app/controllers/destinations_controller.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"databa",
+				"wandrr/config/database.yml"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"db",
+				"db/migrate/20121226042110_create_wolves.rb"
+			],
+			[
+				"spe",
+				"spec/spec_helper.rb"
+			],
+			[
+				"people",
+				"app/controllers/people_controller.rb"
+			],
+			[
+				"per",
+				"app/models/person.rb"
+			],
+			[
+				"rb",
+				"config/routes.rb"
+			],
+			[
+				"people_",
+				"spec/requests/people_indices_spec.rb"
+			],
+			[
+				"dep",
+				"source/_posts/2012-12-10-deploying-octopress-post-to-github-pages.markdown"
+			],
+			[
+				"prop",
+				"source/_posts/2012-12-10-deploying-octopress-post-to-github-pages.markdown"
+			],
+			[
+				"depl",
+				"source/_posts/2012-12-10-deploying-octopress-post-to-github-pages.markdown"
+			],
+			[
+				"pos",
+				"app/models/post.rb"
+			],
+			[
+				"sca",
+				"app/assets/stylesheets/scaffolds.css.scss"
+			],
+			[
+				"to",
+				"TODO.txt"
+			],
+			[
+				"create",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"person",
+				"app/models/person.rb"
+			],
+			[
+				"photo",
+				"db/migrate/20121126003328_add_photo_extension_to_person.rb"
+			],
+			[
+				"secret",
+				"test/functional/people_controller_test.rb"
+			],
+			[
+				"side",
+				"app/views/people/index.html.erb"
+			],
+			[
+				"perso",
+				"app/models/person.rb"
+			],
+			[
+				"publi",
+				"public/index.html"
+			],
+			[
+				"mail",
+				"app/mailers/zombie_mailer.rb"
+			],
+			[
+				"ent",
+				"app/models/entry.rb"
+			],
+			[
+				"entr",
+				"app/controllers/entries_controller.rb"
+			],
+			[
+				"hell",
+				"app/controllers/hello_controller.rb"
+			],
+			[
+				"hello",
+				"app/controllers/hello_controller.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"mi",
+				"app/models/micropost.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
