@@ -2,55 +2,61 @@ require File.expand_path(File.dirname(__FILE__) + '/edgecase')
 
 class AboutObjects < EdgeCase::Koan
   def test_everything_is_an_object
-    assert_equal __, 1.is_a?(Object)
-    assert_equal __, 1.5.is_a?(Object)
-    assert_equal __, "string".is_a?(Object)
-    assert_equal __, nil.is_a?(Object)
-    assert_equal __, Object.is_a?(Object)
+    assert_equal true, 1.is_a?(Object)
+    assert_equal true, 1.5.is_a?(Object)
+    assert_equal true, "string".is_a?(Object)
+    assert_equal true, nil.is_a?(Object)
+    assert_equal true, Object.is_a?(Object)
   end
 
   def test_objects_can_be_converted_to_strings
-    assert_equal __, 123.to_s
-    assert_equal __, nil.to_s
+    assert_equal "123", 123.to_s
+    assert_equal "", nil.to_s
   end
 
   def test_objects_can_be_inspected
-    assert_equal __, 123.inspect
-    assert_equal __, nil.inspect
+    assert_equal "123", 123.inspect # why is this equal? does inspect change number to_s?
+    assert_equal "nil", nil.inspect
   end
 
   def test_every_object_has_an_id
     obj = Object.new
-    assert_equal __, obj.object_id.class
+    assert_equal Fixnum, obj.object_id.class
   end
 
   def test_every_object_has_different_id
     obj = Object.new
     another_obj = Object.new
-    assert_equal __, obj.object_id != another_obj.object_id
+    assert_equal true, obj.object_id != another_obj.object_id
   end
 
+  #Most objects in Ruby will have a boolean value of true. Only two objects 
+  #have a boolean value of false, these are the false object itself and the nil object
   def test_some_system_objects_always_have_the_same_id
-    assert_equal __, false.object_id
-    assert_equal __, true.object_id
-    assert_equal __, nil.object_id
+    assert_equal 0, false.object_id
+    assert_equal 2, true.object_id
+    assert_equal 4, nil.object_id
   end
 
   def test_small_integers_have_fixed_ids
-    assert_equal __, 0.object_id
-    assert_equal __, 1.object_id
-    assert_equal __, 2.object_id
-    assert_equal __, 100.object_id
+    assert_equal 1, 0.object_id
+    assert_equal 3, 1.object_id
+    assert_equal 5, 2.object_id
+    assert_equal 201, 100.object_id
 
     # THINK ABOUT IT:
     # What pattern do the object IDs for small integers follow?
+    # 2*1+1 = 3
+    # 2*2+1 = 5
+    # 2*100+1 = 201
+    # http://www.oreillynet.com/ruby/blog/2006/02/ruby_values_and_object_ids.html
   end
 
   def test_clone_creates_a_different_object
     obj = Object.new
     copy = obj.clone
 
-    assert_equal __, obj           != copy
-    assert_equal __, obj.object_id != copy.object_id
+    assert_equal true, obj           != copy
+    assert_equal true, obj.object_id != copy.object_id
   end
 end
