@@ -464,6 +464,10 @@
 	},
 	"file_history":
 	[
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_arrays.rb",
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_objects.rb",
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_nil.rb",
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_asserts.rb",
 		"/home/ace/Dropbox/Javascript/soundcloud.html",
 		"/home/ace/Dropbox/Javascript/soundclound_api_call.js",
 		"/home/ace/Dropbox/Ruby on Rails/blocs_and_procs.rb",
@@ -587,11 +591,7 @@
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/Gemfile",
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/spec_helper.rb",
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/README.md",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/lib/zombie_spec.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/db/migrate/20121226042110_create_wolves.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/spec/lib/person_spec.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/app/models/person.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/guestbook/app/controllers/people_controller.rb"
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/lib/zombie_spec.rb"
 	],
 	"find":
 	{
@@ -610,6 +610,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"__",
 			"example.com",
 			"company",
 			"examp",
@@ -761,6 +762,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"array",
+				"about_arrays.rb"
+			],
+			[
+				"obj",
+				"about_objects.rb"
+			],
 			[
 				"form",
 				"app/views/candidates/_form.html.erb"
