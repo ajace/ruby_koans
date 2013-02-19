@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"R",
+				"Roy"
+			],
+			[
+				"J",
+				"John"
+			],
+			[
+				"John",
+				"Johnson"
+			],
+			[
 				"email",
 				"email"
 			],
@@ -464,6 +476,14 @@
 	},
 	"file_history":
 	[
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_array_assignment.rb",
+		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/README.md",
+		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/.gitignore",
+		"/home/ace/.cache/.fr-pn5nwY/metadata",
+		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/string_extend.gemspec",
+		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend.rb/string_extend.rb",
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_hashes.rb",
+		"/home/ace/Dropbox/Ruby on Rails/ruby/hello_rack.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_arrays.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_objects.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_nil.rb",
@@ -583,15 +603,7 @@
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/config/database.yml",
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/Rakefile",
 		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/Gemfile.lock",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/wandrr/config/database.yml",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/wandrr/Gemfile",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/models/wolf_spec.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/app/mailers/zombie_mailer.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/app/models/wolf.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/Gemfile",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/spec_helper.rb",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/README.md",
-		"/home/ace/Dropbox/Ruby on Rails/rails_projects/zombie/spec/lib/zombie_spec.rb"
+		"/home/ace/Dropbox/Ruby on Rails/rails_projects/wandrr/wandrr/config/database.yml"
 	],
 	"find":
 	{
@@ -762,6 +774,18 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"",
+				"about_array_assignment.rb"
+			],
+			[
+				"aboutha",
+				"about_hashes.rb"
+			],
+			[
+				"arra",
+				"about_array_assignment.rb"
+			],
 			[
 				"array",
 				"about_arrays.rb"
@@ -1005,10 +1029,6 @@
 			[
 				"na",
 				"app/views/layouts/_nav.html.erb"
-			],
-			[
-				"",
-				".gitignore"
 			],
 			[
 				"upload",
@@ -1265,10 +1285,6 @@
 			[
 				"micro",
 				"app/models/micropost.rb"
-			],
-			[
-				"mi",
-				"app/models/micropost.rb"
 			]
 		],
 		"width": 0.0
@@ -1284,7 +1300,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 192.0,
 	"status_bar_visible": true
 }
