@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"sp",
+				"spain"
+			],
+			[
+				"E",
+				"Egg"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
 				"R",
 				"Roy"
 			],
@@ -186,10 +198,6 @@
 			[
 				"trip",
 				"trip_destination_path"
-			],
-			[
-				"tr",
-				"trip"
 			],
 			[
 				"par",
@@ -419,6 +427,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "about_strings.rb",
+			"settings":
+			{
+				"buffer_size": 5294,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -476,13 +492,13 @@
 	},
 	"file_history":
 	[
+		"/home/ace/Dropbox/Ruby on Rails/koans/about_hashes.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_array_assignment.rb",
 		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/README.md",
 		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/.gitignore",
 		"/home/ace/.cache/.fr-pn5nwY/metadata",
 		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend/string_extend.gemspec",
 		"/home/ace/Dropbox/Ruby on Rails/ruby/string_extend.rb/string_extend.rb",
-		"/home/ace/Dropbox/Ruby on Rails/koans/about_hashes.rb",
 		"/home/ace/Dropbox/Ruby on Rails/ruby/hello_rack.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_arrays.rb",
 		"/home/ace/Dropbox/Ruby on Rails/koans/about_objects.rb",
@@ -623,6 +639,8 @@
 		"find_history":
 		[
 			"__",
+			"\"",
+			"__",
 			"example.com",
 			"company",
 			"examp",
@@ -724,8 +742,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "about_strings.rb",
+					"settings":
+					{
+						"buffer_size": 5294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5232,
+								5232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2214.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -774,6 +821,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"about_string",
+				"about_strings.rb"
+			],
+			[
+				"about",
+				"about_hashes.rb"
+			],
 			[
 				"",
 				"about_array_assignment.rb"
@@ -1115,10 +1170,6 @@
 				"app/assets/stylesheets/custom.css.scss"
 			],
 			[
-				"about",
-				"app/views/static_pages/about.html.erb"
-			],
-			[
 				"scss",
 				"app/assets/stylesheets/static_pages.css.scss"
 			],
@@ -1281,10 +1332,6 @@
 			[
 				"hello",
 				"app/controllers/hello_controller.rb"
-			],
-			[
-				"micro",
-				"app/models/micropost.rb"
 			]
 		],
 		"width": 0.0
